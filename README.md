@@ -9,7 +9,7 @@ PromptWiz is an AI-powered Custom GPT that teaches users how to craft better pro
 ## 🚀 Live Demo
 
 👉 [Try PromptWiz on ChatGPT](https://chatgpt.com/g/g-6810f67735648191bb619856bd3b78a3-promptwiz)  
-*(Replace this with your actual GPT share link)*
+
 
 ---
 
@@ -100,7 +100,7 @@ MIT License — use it, remix it, build your own wizard 🪄
 
 ## 👋 Author
 
-Built by [Your Name] as a hackathon project and AI learning tool.  
+Built by MD TANVIR RANA as a hackathon project and AI learning tool.  
 DM me on [LinkedIn](https://www.linkedin.com/in/md-tanvir-rana-770001243/) to chat or collab!
 
 
