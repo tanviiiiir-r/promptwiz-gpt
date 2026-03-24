@@ -1,6 +1,6 @@
 # promptwiz-gpt
 
-Brief overview of promptwiz-gpt
+{{PROJECT_ELEVATOR}}
 
 ## ✨ Features
 - Bullet point 1
@@ -8,8 +8,8 @@ Brief overview of promptwiz-gpt
 - Bullet point 3
 
 ## 🛠️ Tech Stack
-- Language / framework: **Various**
-- Key libraries: See repository
+- Language / framework: ****
+- Key libraries: list of libs
 
 ## 🚀 Quick Start
 ```bash
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 npm install
 
 # Run
-Refer to documentation
+npm run dev
 ```
 
 ## 📸 Demo
